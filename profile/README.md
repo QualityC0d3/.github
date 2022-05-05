@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Quality Code is a developer focused brand and educational resources focusing on React and Web3.
+
 <!--
 
 **Here are some ideas to get you started:**
